@@ -769,3 +769,35 @@ java.lang.NullPointerException: Cannot invoke "java.util.Map.get(Object)" becaus
 [14Mar2025 02:18:04.922] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Rick'/86, l='ServerLevel[world]', x=139.93, y=88.00, z=110.41] died: Rick withered away
 [14Mar2025 02:19:03.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarioCuevas316 has made the advancement [Stone Age]
 [14Mar2025 02:19:10.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarioCuevas316 has made the advancement [Getting an Upgrade]
+[14Mar2025 02:26:32.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarioCuevas316 has made the advancement [Sweet Dreams]
+[14Mar2025 02:27:15.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarioCuevas316 has made the advancement [Monster Hunter]
+[14Mar2025 02:27:42.659] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[14Mar2025 02:27:42.659] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[14Mar2025 02:28:37.822] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Johna'/135, l='ServerLevel[world]', x=136.69, y=90.00, z=117.41] died, message: 'Johna withered away'
+[14Mar2025 02:28:37.823] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Johna'/135, l='ServerLevel[world]', x=136.69, y=90.00, z=117.41] died: Johna withered away
+[14Mar2025 02:29:12.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarioCuevas316 has made the advancement [Suit Up]
+[14Mar2025 02:30:49.724] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarioCuevas316 lost connection: Disconnected
+[14Mar2025 02:30:49.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarioCuevas316 left the game
+[14Mar2025 02:30:49.728] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MarioCuevas316
+[14Mar2025 02:30:49.785] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Mar2025 02:30:49.793] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MarioCuevas316[/127.82.235.164:43543] logged in with entity id 2889 at (153.7689407972814, 93.0, 116.85510394462834)
+[14Mar2025 02:30:49.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarioCuevas316 joined the game
+[14Mar2025 02:30:49.846] [Server thread/INFO] [Jade/]: Syncing config to MarioCuevas316 (cfcc3f39-bd9c-31bf-a632-6b87431dc964)
+[14Mar2025 02:30:50.260] [Server thread/INFO] [ping-wheel/]: Channel update: MarioCuevas316 -> default
+[14Mar2025 02:30:50.261] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MarioCuevas316 (18)
+[14Mar2025 02:30:50.261] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MarioCuevas316
+[14Mar2025 02:30:57.039] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cfcc3f39-bd9c-31bf-a632-6b87431dc964
+[14Mar2025 02:30:58.039] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cfcc3f39-bd9c-31bf-a632-6b87431dc964
+[14Mar2025 02:30:58.040] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MarioCuevas316 (cfcc3f39-bd9c-31bf-a632-6b87431dc964) successfully connected to voice chat
+[14Mar2025 02:31:48.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarioCuevas316 moved too quickly! -9.516068545768306,-1.6815583980583142,3.0131691790237483
+[14Mar2025 02:32:51.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[14Mar2025 02:32:51.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OP<--[HERE]
+[14Mar2025 02:32:57.043] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=-59, z=251}
+[14Mar2025 02:33:08.332] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=-59, z=251}
+[14Mar2025 02:33:08.426] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=-59, z=251}
+[14Mar2025 02:33:08.962] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-59, z=246}
+[14Mar2025 02:33:11.616] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-59, z=246}
+[14Mar2025 02:33:11.636] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-502, y=-58, z=246}
+[14Mar2025 02:33:11.697] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-492, y=-58, z=250}
+[14Mar2025 02:33:29.939] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-445, y=-55, z=249}
+[14Mar2025 02:34:03.781] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-445, y=-55, z=249}
