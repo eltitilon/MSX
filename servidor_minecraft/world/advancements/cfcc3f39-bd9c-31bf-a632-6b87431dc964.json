@@ -275,7 +275,11 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "coniferous_forest": "2025-03-14 02:31:40 +0000",
+      "aspen_glade": "2025-03-14 02:35:53 +0000",
+      "seasonal_forest": "2025-03-14 02:33:01 +0000",
       "fir_clearing": "2025-03-14 02:16:05 +0000",
+      "crag": "2025-03-14 02:37:59 +0000",
       "ominous_woods": "2025-03-14 02:27:39 +0000"
     },
     "done": false
@@ -1256,6 +1260,36 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-03-14 02:29:12 +0000"
+    },
+    "done": true
+  },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2025-03-14 02:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-03-14 02:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-03-14 02:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-03-14 02:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-03-14 02:35:43 +0000"
     },
     "done": true
   },
