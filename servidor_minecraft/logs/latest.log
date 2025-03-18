@@ -751,3 +751,31 @@ java.lang.NullPointerException: Cannot invoke "java.util.Map.get(Object)" becaus
 [18Mar2025 01:06:14.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Rocio528> amor
 [18Mar2025 01:14:57.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarioCuevas316 has made the advancement [Isn't It Iron Pick]
 [18Mar2025 01:18:25.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarioCuevas316 has made the advancement [Stone Age]
+[18Mar2025 01:20:18.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarioCuevas316 has made the advancement [Getting an Upgrade]
+[18Mar2025 01:20:27.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rocio528 has made the advancement [Getting an Upgrade]
+[18Mar2025 01:24:09.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18Mar2025 01:24:09.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
+[18Mar2025 01:26:29.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarioCuevas316 has made the advancement [Fowl Play]
+[18Mar2025 01:26:38.708] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[18Mar2025 01:26:38.719] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[18Mar2025 01:27:10.388] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[18Mar2025 01:27:10.388] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[18Mar2025 01:29:43.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made maricuevas316 a server operator
+[18Mar2025 01:30:04.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made MarioCuevas316 a server operator
+[18Mar2025 01:31:56.273] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[18Mar2025 01:32:08.390] [Worker-Main-23/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[18Mar2025 01:33:49.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rocio528 has made the advancement [Elk-a-holic]
+[18Mar2025 01:34:21.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarioCuevas316 has made the advancement [Hog Wild!]
+[18Mar2025 01:35:03.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarioCuevas316 has completed the challenge [Hunt of a Lifetime!]
+[18Mar2025 01:35:47.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarioCuevas316 has made the advancement [Elk-a-holic]
+[18Mar2025 01:36:18.353] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[18Mar2025 01:36:18.359] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[18Mar2025 01:36:18.359] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[18Mar2025 01:36:18.359] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[18Mar2025 01:37:40.235] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-48, z=-413}
+[18Mar2025 01:37:40.235] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-48, z=-415}
+[18Mar2025 01:37:45.478] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[18Mar2025 01:38:05.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18Mar2025 01:38:05.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
+[18Mar2025 01:38:09.461] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[18Mar2025 01:39:02.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Rocio528> [name:"barco", x:1112, y:68, z:-24, dim:minecraft:overworld]

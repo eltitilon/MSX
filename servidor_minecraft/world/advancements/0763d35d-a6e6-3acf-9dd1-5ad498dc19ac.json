@@ -144,6 +144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-03-18 01:15:34 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/food/cooked_egg": {
     "criteria": {
       "has_eggs": "2025-03-18 00:55:18 +0000"
@@ -178,6 +184,12 @@
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-03-18 01:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-18 01:31:45 +0000"
     },
     "done": true
   },
@@ -319,6 +331,12 @@
     },
     "done": true
   },
+  "cnc:elkadvancement": {
+    "criteria": {
+      "elkadvancement_0": "2025-03-18 01:33:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-03-18 01:10:25 +0000"
@@ -340,6 +358,12 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-03-18 01:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-03-18 01:20:27 +0000"
     },
     "done": true
   },
@@ -379,6 +403,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-03-18 01:29:30 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/oak_bridge_pier": {
     "criteria": {
       "has_planks": "2025-03-18 01:07:27 +0000"
@@ -397,6 +427,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-18 01:29:30 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_fishing_rod": "2025-03-18 00:55:18 +0000",
@@ -407,6 +443,12 @@
   "another_furniture:recipes/oak_shelf": {
     "criteria": {
       "has_planks": "2025-03-18 01:10:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-18 01:31:45 +0000"
     },
     "done": true
   },
@@ -467,6 +509,12 @@
   "aquaculture:recipes/tools/diamond_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2025-03-18 00:55:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-03-18 01:20:27 +0000"
     },
     "done": true
   },
@@ -565,6 +613,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-03-18 01:29:14 +0000"
+    },
+    "done": true
+  },
   "hearth_and_home:recipes/oak_lattice": {
     "criteria": {
       "has_item": "2025-03-18 01:10:25 +0000"
@@ -604,8 +658,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sparse_jungle": "2025-03-18 01:29:08 +0000",
       "minecraft:river": "2025-03-18 01:01:33 +0000",
       "minecraft:forest": "2025-03-18 01:01:42 +0000",
+      "minecraft:jungle": "2025-03-18 01:27:16 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-18 01:32:02 +0000",
       "minecraft:savanna": "2025-03-18 01:01:50 +0000",
       "minecraft:plains": "2025-03-18 01:00:45 +0000"
     },
@@ -705,6 +762,18 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-03-18 01:10:31 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/service_bell": {
+    "criteria": {
+      "has_nugget": "2025-03-18 01:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-18 01:31:45 +0000"
     },
     "done": true
   },
