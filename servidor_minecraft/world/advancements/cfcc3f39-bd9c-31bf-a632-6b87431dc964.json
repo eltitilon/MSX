@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-03-18 01:44:32 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/neptunium_ingot_from_neptunium_block": {
     "criteria": {
       "has_items": "2025-03-18 00:54:37 +0000"
@@ -279,6 +285,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-03-18 01:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-03-18 01:44:32 +0000"
     },
     "done": true
   },
@@ -409,6 +421,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-03-18 01:44:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-03-18 01:18:25 +0000"
@@ -460,6 +478,12 @@
   "hearth_and_home:recipes/lattices": {
     "criteria": {
       "has_item": "2025-03-18 01:12:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-03-18 01:44:32 +0000"
     },
     "done": true
   },
@@ -556,6 +580,12 @@
   "mcwbridges:recipes/rope_oak_bridge": {
     "criteria": {
       "has_planks": "2025-03-18 01:12:51 +0000"
+    },
+    "done": true
+  },
+  "cnc:elkadvancement": {
+    "criteria": {
+      "elkadvancement_0": "2025-03-18 01:35:47 +0000"
     },
     "done": true
   },
@@ -1003,6 +1033,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-03-18 01:44:32 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/cobblestone_bridge_stair": {
     "criteria": {
       "has_planks": "2025-03-18 01:18:25 +0000"
@@ -1066,6 +1102,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-03-18 01:39:35 +0000",
       "minecraft:sparse_jungle": "2025-03-18 01:29:10 +0000",
       "minecraft:river": "2025-03-18 01:01:36 +0000",
       "minecraft:forest": "2025-03-18 01:01:45 +0000",
@@ -1206,6 +1243,12 @@
   "another_furniture:recipes/furniture_hammer": {
     "criteria": {
       "has_stick": "2025-03-18 01:14:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-03-18 01:44:32 +0000"
     },
     "done": true
   },

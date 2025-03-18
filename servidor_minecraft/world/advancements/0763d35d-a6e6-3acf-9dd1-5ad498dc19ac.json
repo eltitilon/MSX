@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-03-18 01:44:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-03-18 01:10:25 +0000"
@@ -44,6 +50,12 @@
   "aquaculture:recipes/decorations/birch_fish_mount": {
     "criteria": {
       "has_items": "2025-03-18 00:55:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-03-18 01:44:41 +0000"
     },
     "done": true
   },
@@ -71,9 +83,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-03-18 01:45:02 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/neptunium_ingot_from_neptunium_block": {
     "criteria": {
       "has_items": "2025-03-18 00:55:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-03-18 01:44:00 +0000"
     },
     "done": true
   },
@@ -101,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-03-18 01:44:41 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_fishing_rod": "2025-03-18 00:55:18 +0000",
@@ -111,6 +141,12 @@
   "aquaculture:recipes/decorations/oak_fish_mount": {
     "criteria": {
       "has_items": "2025-03-18 00:55:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-03-18 01:45:02 +0000"
     },
     "done": true
   },
@@ -205,6 +241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-03-18 01:45:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-03-18 01:01:24 +0000"
@@ -232,6 +274,12 @@
   "hearth_and_home:recipes/lattices": {
     "criteria": {
       "has_item": "2025-03-18 01:10:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-03-18 01:45:02 +0000"
     },
     "done": true
   },
@@ -464,6 +512,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-03-18 01:44:53 +0000"
+    },
+    "done": true
+  },
   "hearth_and_home:recipes/parquets": {
     "criteria": {
       "has_item": "2025-03-18 01:10:25 +0000"
@@ -509,6 +563,12 @@
   "aquaculture:recipes/tools/diamond_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2025-03-18 00:55:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-03-18 01:44:00 +0000"
     },
     "done": true
   },
@@ -562,6 +622,12 @@
   "another_furniture:recipes/white_tall_stool": {
     "criteria": {
       "has_wool": "2025-03-18 01:04:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-18 01:44:53 +0000"
     },
     "done": true
   },
@@ -631,6 +697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-03-18 01:45:02 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_white": {
     "criteria": {
       "has_white_wool": "2025-03-18 01:04:30 +0000"
@@ -649,6 +721,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-03-18 01:45:02 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/food/sushi": {
     "criteria": {
       "has_alt_items": "2025-03-18 00:55:18 +0000",
@@ -658,6 +736,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-03-18 01:39:40 +0000",
       "minecraft:sparse_jungle": "2025-03-18 01:29:08 +0000",
       "minecraft:river": "2025-03-18 01:01:33 +0000",
       "minecraft:forest": "2025-03-18 01:01:42 +0000",
@@ -722,6 +801,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-18 01:44:53 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/red_mushroom_from_fish": {
     "criteria": {
       "has_items": "2025-03-18 00:55:18 +0000"
@@ -744,6 +829,12 @@
   "another_furniture:recipes/black_curtain": {
     "criteria": {
       "has_wool": "2025-03-18 01:04:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-03-18 01:45:02 +0000"
     },
     "done": true
   },
