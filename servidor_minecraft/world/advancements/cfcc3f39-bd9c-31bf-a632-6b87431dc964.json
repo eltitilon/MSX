@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-03-18 02:00:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2025-03-18 01:27:40 +0000"
@@ -245,9 +251,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-03-18 02:04:37 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/dry_bamboo_bridge": {
     "criteria": {
       "has_planks": "2025-03-18 01:27:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-03-18 02:04:37 +0000"
     },
     "done": true
   },
@@ -272,6 +290,12 @@
   "aquaculture:recipes/aquaculture/gold_hook": {
     "criteria": {
       "has_items": "2025-03-18 00:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-03-18 02:00:12 +0000"
     },
     "done": true
   },
@@ -535,6 +559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-03-18 02:04:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-03-18 01:35:11 +0000"
@@ -610,6 +640,12 @@
   "cnc:elkadvancement": {
     "criteria": {
       "elkadvancement_0": "2025-03-18 01:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-03-18 02:04:37 +0000"
     },
     "done": true
   },
@@ -955,6 +991,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-03-18 02:04:37 +0000"
+    },
+    "done": true
+  },
   "hearth_and_home:recipes/oak_vertical_trim": {
     "criteria": {
       "has_the_recipe": "2025-03-18 01:12:51 +0000"
@@ -1081,6 +1123,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-03-18 02:04:37 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/cobblestone_bridge_stair": {
     "criteria": {
       "has_planks": "2025-03-18 01:18:25 +0000"
@@ -1144,10 +1192,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-03-18 01:59:31 +0000",
+      "minecraft:frozen_river": "2025-03-18 01:59:22 +0000",
       "minecraft:beach": "2025-03-18 01:39:35 +0000",
       "minecraft:sparse_jungle": "2025-03-18 01:29:10 +0000",
       "minecraft:river": "2025-03-18 01:01:36 +0000",
       "minecraft:snowy_plains": "2025-03-18 01:51:18 +0000",
+      "minecraft:snowy_taiga": "2025-03-18 01:58:04 +0000",
       "minecraft:forest": "2025-03-18 01:01:45 +0000",
       "minecraft:jungle": "2025-03-18 01:27:12 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-18 01:32:08 +0000",
@@ -1401,6 +1452,12 @@
   "aquaculture:recipes/decorations/jungle_fish_mount": {
     "criteria": {
       "has_items": "2025-03-18 00:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-03-18 02:04:37 +0000"
     },
     "done": true
   },
