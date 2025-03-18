@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_axe": "2025-03-18 01:52:51 +0000"
+    },
+    "done": true
+  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-03-18 01:10:31 +0000"
@@ -727,6 +733,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_axe": "2025-03-18 01:52:51 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/food/sushi": {
     "criteria": {
       "has_alt_items": "2025-03-18 00:55:18 +0000",
@@ -739,9 +751,11 @@
       "minecraft:beach": "2025-03-18 01:39:40 +0000",
       "minecraft:sparse_jungle": "2025-03-18 01:29:08 +0000",
       "minecraft:river": "2025-03-18 01:01:33 +0000",
+      "minecraft:snowy_plains": "2025-03-18 01:51:21 +0000",
       "minecraft:forest": "2025-03-18 01:01:42 +0000",
       "minecraft:jungle": "2025-03-18 01:27:16 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-18 01:32:02 +0000",
+      "minecraft:meadow": "2025-03-18 01:53:27 +0000",
       "minecraft:savanna": "2025-03-18 01:01:50 +0000",
       "minecraft:plains": "2025-03-18 01:00:45 +0000"
     },
