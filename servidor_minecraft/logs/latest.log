@@ -696,3 +696,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Mar2025 17:23:38.593] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
 [30Mar2025 17:26:45.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [30Mar2025 17:26:45.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
+[30Mar2025 17:37:57.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Mar2025 17:37:57.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
