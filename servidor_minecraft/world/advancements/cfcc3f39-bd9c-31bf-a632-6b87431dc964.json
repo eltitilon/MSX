@@ -2913,6 +2913,12 @@
     },
     "done": true
   },
+  "hearth_and_home:recipes/vertical_trims": {
+    "criteria": {
+      "has_item": "2025-03-30 18:05:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-03-30 17:24:42 +0000"

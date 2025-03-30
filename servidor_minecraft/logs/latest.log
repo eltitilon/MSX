@@ -703,3 +703,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Mar2025 17:54:08.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarioCuevas316 has reached the goal [Half a flight]
 [30Mar2025 18:05:36.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [30Mar2025 18:05:36.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
+[30Mar2025 18:12:51.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarioCuevas316: Set own game mode to Creative Mode]
+[30Mar2025 18:14:02.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Mar2025 18:14:02.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
+[30Mar2025 18:15:20.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarioCuevas316: Set own game mode to Survival Mode]
