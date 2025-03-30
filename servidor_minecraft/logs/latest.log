@@ -687,3 +687,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Mar2025 01:34:06.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarioCuevas316 was impaled by Marauder
 [30Mar2025 01:35:52.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarioCuevas316 was slain by Grizzly Bear
 [30Mar2025 01:36:34.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarioCuevas316 has made the advancement [Pic-A-Nic Basket?]
+[30Mar2025 01:40:54.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Mar2025 01:40:54.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
