@@ -701,3 +701,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Mar2025 17:50:41.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [30Mar2025 17:50:41.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
 [30Mar2025 17:54:08.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarioCuevas316 has reached the goal [Half a flight]
+[30Mar2025 18:05:36.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Mar2025 18:05:36.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
