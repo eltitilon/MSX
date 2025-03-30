@@ -1863,6 +1863,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-30 15:04:51 +0000",
       "minecraft:spider": "2025-03-25 02:54:49 +0000",
+      "minecraft:creeper": "2025-03-30 17:27:06 +0000",
       "minecraft:zombie": "2025-03-30 15:07:45 +0000",
       "minecraft:drowned": "2025-03-30 01:06:53 +0000"
     },
@@ -2372,6 +2373,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/andesite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-03-30 17:24:42 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/granite_bridge": {
     "criteria": {
       "has_planks": "2025-03-30 17:20:15 +0000"
@@ -2402,6 +2409,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-03-30 17:24:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-30 17:21:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-03-30 16:46:47 +0000"
@@ -2426,15 +2445,51 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-03-30 17:24:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-30 17:24:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-03-30 16:46:47 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-30 17:21:54 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_ruined_building": "2025-03-30 17:21:40 +0000"
+    },
+    "done": false
+  },
+  "cnc:ringtailadvancement": {
+    "criteria": {
+      "ringtailadvancement_0": "2025-03-30 17:21:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-30 16:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-30 17:24:42 +0000"
     },
     "done": true
   },
@@ -2447,6 +2502,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-30 17:20:15 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_ruined_building": "2025-03-30 17:21:40 +0000"
     },
     "done": true
   },
@@ -2492,6 +2553,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-30 17:24:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-30 16:46:16 +0000"
@@ -2507,6 +2574,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-30 16:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-30 17:24:42 +0000"
     },
     "done": true
   },
@@ -2558,6 +2631,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-03-30 17:24:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-03-30 16:46:47 +0000"
@@ -2570,9 +2649,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-30 17:24:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-03-30 16:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-03-30 17:24:42 +0000"
     },
     "done": true
   },
@@ -2600,15 +2691,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-03-30 17:24:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-03-30 17:24:42 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/stone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-03-30 16:46:47 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-03-30 17:24:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-03-30 17:27:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-30 17:27:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-30 17:20:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-03-30 17:27:13 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-03-30 17:24:42 +0000"
     },
     "done": true
   },
