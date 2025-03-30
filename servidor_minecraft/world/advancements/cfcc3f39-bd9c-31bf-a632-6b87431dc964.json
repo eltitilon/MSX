@@ -1860,7 +1860,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:spider": "2025-03-25 02:54:49 +0000"
+      "minecraft:spider": "2025-03-25 02:54:49 +0000",
+      "minecraft:drowned": "2025-03-30 01:06:53 +0000"
     },
     "done": false
   },
@@ -2008,6 +2009,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-27 01:00:01 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2025-03-27 01:00:31 +0000"
@@ -2017,12 +2024,6 @@
   "mca:recipes/misc/comb": {
     "criteria": {
       "has_item": "2025-03-27 01:00:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-03-27 01:00:01 +0000"
     },
     "done": true
   },
