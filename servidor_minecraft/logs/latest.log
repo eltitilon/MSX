@@ -689,3 +689,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Mar2025 16:57:15.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
 [30Mar2025 17:03:41.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [30Mar2025 17:03:41.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
+[30Mar2025 17:18:46.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Mar2025 17:18:46.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
+[30Mar2025 17:21:06.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarioCuevas316 has made the advancement [Furry Feind]
+[30Mar2025 17:23:25.323] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[30Mar2025 17:23:38.593] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
