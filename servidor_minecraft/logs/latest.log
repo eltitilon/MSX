@@ -683,3 +683,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Mar2025 01:05:13.596] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MarioCuevas316 (cfcc3f39-bd9c-31bf-a632-6b87431dc964) successfully connected to voice chat
 [30Mar2025 01:17:08.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [30Mar2025 01:17:08.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
+[30Mar2025 01:32:01.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarioCuevas316 has made the advancement [Not Today, Thank You]
+[30Mar2025 01:34:06.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarioCuevas316 was impaled by Marauder
+[30Mar2025 01:35:52.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarioCuevas316 was slain by Grizzly Bear
+[30Mar2025 01:36:34.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarioCuevas316 has made the advancement [Pic-A-Nic Basket?]
