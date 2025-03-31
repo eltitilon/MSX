@@ -1864,6 +1864,8 @@
     "criteria": {
       "minecraft:pillager": "2025-03-31 01:16:34 +0000",
       "minecraft:skeleton": "2025-03-30 15:04:51 +0000",
+      "minecraft:ravager": "2025-03-31 01:21:38 +0000",
+      "minecraft:vindicator": "2025-03-31 01:23:52 +0000",
       "minecraft:spider": "2025-03-25 02:54:49 +0000",
       "minecraft:creeper": "2025-03-30 17:27:06 +0000",
       "minecraft:cave_spider": "2025-03-31 00:45:48 +0000",
