@@ -1481,6 +1481,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-03-31 01:11:46 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/granite_bridge": {
     "criteria": {
       "has_planks": "2025-03-31 00:23:35 +0000"
@@ -1637,6 +1643,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-03-31 01:16:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-31 00:16:31 +0000"
@@ -1658,6 +1670,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-31 00:28:51 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_log_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-03-31 01:11:00 +0000"
     },
     "done": true
   },
@@ -1705,6 +1723,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-03-31 01:16:58 +0000",
       "minecraft:skeleton": "2025-03-31 00:33:56 +0000",
       "minecraft:creeper": "2025-03-31 00:17:01 +0000",
       "minecraft:zombie": "2025-03-31 00:13:24 +0000"
@@ -2272,6 +2291,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-03-31 00:17:02 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:pillager_camp": {
+    "criteria": {
+      "in_pillager_camp": "2025-03-31 01:16:37 +0000"
     },
     "done": true
   },
