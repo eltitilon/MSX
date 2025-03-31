@@ -1725,6 +1725,8 @@
     "criteria": {
       "minecraft:pillager": "2025-03-31 01:16:58 +0000",
       "minecraft:skeleton": "2025-03-31 00:33:56 +0000",
+      "minecraft:ravager": "2025-03-31 01:35:43 +0000",
+      "minecraft:vindicator": "2025-03-31 01:35:46 +0000",
       "minecraft:creeper": "2025-03-31 00:17:01 +0000",
       "minecraft:zombie": "2025-03-31 00:13:24 +0000"
     },
