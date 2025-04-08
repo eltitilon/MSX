@@ -662,3 +662,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Apr2025 01:33:03.732] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cfcc3f39-bd9c-31bf-a632-6b87431dc964
 [08Apr2025 01:33:04.729] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cfcc3f39-bd9c-31bf-a632-6b87431dc964
 [08Apr2025 01:33:04.732] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MarioCuevas316 (cfcc3f39-bd9c-31bf-a632-6b87431dc964) successfully connected to voice chat
+[08Apr2025 01:44:09.200] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mary'/259, l='ServerLevel[world]', x=1317.32, y=67.57, z=761.47] died, message: 'Mary was impaled by Marauder'
+[08Apr2025 01:44:09.202] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mary'/259, l='ServerLevel[world]', x=1317.32, y=67.57, z=761.47] died: Mary was impaled by Marauder
