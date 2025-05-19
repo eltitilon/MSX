@@ -3401,12 +3401,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
-    "criteria": {
-      "has_vine": "2025-04-08 02:15:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-04-08 01:47:38 +0000"
@@ -3419,33 +3413,9 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/birch_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-04-08 01:54:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-04-08 01:54:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_tile_wall": {
     "criteria": {
       "has_deepslate_tiles": "2025-04-08 01:47:38 +0000"
-    },
-    "done": true
-  },
-  "hearth_and_home:recipes/chimneys": {
-    "criteria": {
-      "has_item": "2025-04-08 01:58:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
-    "criteria": {
-      "has_vine": "2025-04-08 02:15:56 +0000"
     },
     "done": true
   },
@@ -3458,12 +3428,6 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-04-08 01:47:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-04-08 01:54:33 +0000"
     },
     "done": true
   },
@@ -3485,15 +3449,51 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/deepslate_tile_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-08 01:47:38 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-08 01:54:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-04-08 01:54:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-04-08 01:54:33 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/chimneys": {
+    "criteria": {
+      "has_item": "2025-04-08 01:58:19 +0000"
+    },
+    "done": true
+  },
   "hearth_and_home:recipes/cobblestone_bricks": {
     "criteria": {
       "has_item": "2025-04-08 01:58:19 +0000"
     },
     "done": true
   },
-  "mcwbridges:recipes/deepslate_tile_bridge_pier": {
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
     "criteria": {
-      "has_planks": "2025-04-08 01:47:38 +0000"
+      "has_vine": "2025-04-08 02:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2025-04-08 02:15:56 +0000"
     },
     "done": true
   },
