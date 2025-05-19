@@ -672,3 +672,53 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19May2025 18:15:35.411] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [19May2025 18:24:16.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [19May2025 18:24:16.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: op<--[HERE]
+[19May2025 18:34:24.194] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Encountered an unexpected exception
+net.minecraft.ReportedException: Ticking entity
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:897) ~[server-1.20.1-20230612.114412-srg.jar%23377!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23377!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23377!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23377!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23377!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: com.google.gson.JsonSyntaxException: Unknown block tag in villagerPathfindingBlacklist 'minecraft:fences'
+	at forge.net.mca.entity.ai.brain.tasks.WanderOrTeleportToTargetTask.isAreaSafe(WanderOrTeleportToTargetTask.java:113) ~[minecraft-comes-alive-7.6.3+1.20.1-universal.jar%23315!/:?]
+	at forge.net.mca.entity.ai.brain.tasks.WanderOrTeleportToTargetTask.canTeleportTo(WanderOrTeleportToTargetTask.java:84) ~[minecraft-comes-alive-7.6.3+1.20.1-universal.jar%23315!/:?]
+	at forge.net.mca.entity.ai.brain.tasks.WanderOrTeleportToTargetTask.tryTeleportTo(WanderOrTeleportToTargetTask.java:71) ~[minecraft-comes-alive-7.6.3+1.20.1-universal.jar%23315!/:?]
+	at forge.net.mca.entity.ai.brain.tasks.WanderOrTeleportToTargetTask.tryTeleport(WanderOrTeleportToTargetTask.java:61) ~[minecraft-comes-alive-7.6.3+1.20.1-universal.jar%23315!/:?]
+	at forge.net.mca.entity.ai.brain.tasks.WanderOrTeleportToTargetTask.lambda$keepRunning$0(WanderOrTeleportToTargetTask.java:48) ~[minecraft-comes-alive-7.6.3+1.20.1-universal.jar%23315!/:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at forge.net.mca.entity.ai.brain.tasks.WanderOrTeleportToTargetTask.m_6725_(WanderOrTeleportToTargetTask.java:43) ~[minecraft-comes-alive-7.6.3+1.20.1-universal.jar%23315!/:?]
+	at forge.net.mca.entity.ai.brain.tasks.WanderOrTeleportToTargetTask.m_6725_(WanderOrTeleportToTargetTask.java:20) ~[minecraft-comes-alive-7.6.3+1.20.1-universal.jar%23315!/:?]
+	at net.minecraft.world.entity.ai.behavior.Behavior.m_22558_(Behavior.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23377!/:?]
+	at net.minecraft.world.entity.ai.Brain.m_21963_(Brain.java:445) ~[server-1.20.1-20230612.114412-srg.jar%23377!/:?]
+	at net.minecraft.world.entity.ai.Brain.m_21865_(Brain.java:390) ~[server-1.20.1-20230612.114412-srg.jar%23377!/:?]
+	at net.minecraft.world.entity.npc.Villager.m_8024_(Villager.java:209) ~[server-1.20.1-20230612.114412-srg.jar%23377!/:?]
+	at net.minecraft.world.entity.Mob.m_6140_(Mob.java:768) ~[server-1.20.1-20230612.114412-srg.jar%23377!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8107_(LivingEntity.java:2548) ~[server-1.20.1-20230612.114412-srg.jar%23377!/:?]
+	at net.minecraft.world.entity.Mob.m_8107_(Mob.java:536) ~[server-1.20.1-20230612.114412-srg.jar%23377!/:?]
+	at net.minecraft.world.entity.AgeableMob.m_8107_(AgeableMob.java:128) ~[server-1.20.1-20230612.114412-srg.jar%23377!/:?]
+	at forge.net.mca.entity.VillagerEntityMCA.m_8107_(VillagerEntityMCA.java:697) ~[minecraft-comes-alive-7.6.3+1.20.1-universal.jar%23315!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2298) ~[server-1.20.1-20230612.114412-srg.jar%23377!/:?]
+	at net.minecraft.world.entity.Mob.m_8119_(Mob.java:337) ~[server-1.20.1-20230612.114412-srg.jar%23377!/:?]
+	at net.minecraft.world.entity.npc.Villager.m_8119_(Villager.java:248) ~[server-1.20.1-20230612.114412-srg.jar%23377!/:?]
+	at forge.net.mca.entity.VillagerEntityMCA.m_8119_(VillagerEntityMCA.java:769) ~[minecraft-comes-alive-7.6.3+1.20.1-universal.jar%23315!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:693) ~[server-1.20.1-20230612.114412-srg.jar%23377!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:479) ~[server-1.20.1-20230612.114412-srg.jar%23377!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23377!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23377!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23377!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23377!/:?]
+	... 5 more
+[19May2025 18:34:24.247] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID b06c5a1b-bf22-4620-8a0e-9701c1508c8c
+[19May2025 18:34:24.248] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: This crash report has been saved to: /workspaces/MSX/servidor_minecraft/./crash-reports/crash-2025-05-19_18.34.24-server.txt
+[19May2025 18:34:24.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19May2025 18:34:24.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19May2025 18:34:24.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19May2025 18:34:24.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19May2025 18:34:26.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19May2025 18:34:26.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19May2025 18:34:26.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19May2025 18:34:26.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19May2025 18:34:26.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19May2025 18:34:26.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19May2025 18:34:26.664] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
